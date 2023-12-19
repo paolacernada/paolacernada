@@ -6,6 +6,9 @@
 - 😄 Pronouns: **She/Her**
 - ⚡ Fun fact: **I speak Portuguese, Italian, and Spanish**
 
+## About Me
+After working in client-facing roles as Account Manager, Tech Support, and Project Management, I have chosen to focus on furthering my education in the Tech world. At Oregon State University, I am now pursuing a second bachelor's degree in computer science. I am familiar with financial services, as well as basic web design, HTML, Figma digital marketing, and Python programming. Looking for Tech roles where I can grow. I'd love to connect. Don't hesitate to reach out!
+
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/paola-cernada/) 
 
