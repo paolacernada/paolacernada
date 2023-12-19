@@ -26,7 +26,4 @@ Here are some ideas to get you started:
 ![](https://github-readme-streak-stats.herokuapp.com/?user=paolacernada&theme=swift&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=paolacernada&theme=swift&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
----
-[![](https://visitcount.itsvg.in/api?id=paolacernada&icon=5&color=9)](https://visitcount.itsvg.in)
-
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
