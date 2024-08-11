@@ -7,7 +7,7 @@
 - ⚡ Fun fact: **I speak Portuguese, Italian, and Spanish**
 
 ## About Me
-After working in client-facing roles as Account Manager, Tech Support, and Project Management, I have chosen to focus on furthering my education in the Tech world. At Oregon State University, I am now pursuing a second bachelor's degree in computer science. I am familiar with financial services, as well as basic web design, HTML, Figma digital marketing, and Python programming. Looking for Tech roles where I can grow. I'd love to connect. Don't hesitate to reach out!
+I am a dedicated Computer Science student at Oregon State University with a strong foundation in software development and a passion for creating innovative solutions to complex problems. My expertise includes multiple programming languages, frameworks, and tools, enabling me to handle a wide range of projects. With hands-on experience from internships and academic projects, I am well-prepared to contribute to dynamic engineering teams and thrive in challenging environments.
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/paola-cernada/) 
