@@ -1,13 +1,13 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on **Vue.js projects**
-- 🌱 I’m currently learning **continuous integration**
+- 🔭 I’m currently working on a **React Native app**
+- 🌱 I’m currently learning **TypeScript and Redux state management**
 - 📫 How to reach me: **pncp2022@gmail.com**
 - 😄 Pronouns: **She/Her**
 - ⚡ Fun fact: **I speak Portuguese, Italian, and Spanish**
 
 ## About Me
-I am a dedicated Computer Science student at Oregon State University with a strong foundation in software development and a passion for creating innovative solutions to complex problems. My expertise includes multiple programming languages, frameworks, and tools, enabling me to handle a wide range of projects. With hands-on experience from internships and academic projects, I am well-prepared to contribute to dynamic engineering teams and thrive in challenging environments.
+I'm a Computer Science student at Oregon State University, graduating in December 2024, with a genuine love for building meaningful, impactful solutions. I enjoy working with a variety of programming languages and tools, allowing me to tackle diverse projects with confidence. Through my internship experience and academic projects, I've gained hands-on skills that prepare me to contribute to collaborative engineering teams and navigate complex challenges. I’m always excited to learn and make a difference through my work.
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/paola-cernada/) 
